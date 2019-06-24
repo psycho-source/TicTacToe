@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="game">Tic Tac Toe</string>
+    <string name="player">Player (%1$s)</string>
+    <string name="player1">Player 1 (%1$s)</string>
+    <string name="player2">Player 2 (%1$s)</string>
+    <string name="cpu">CPU (%1$s)</string>
+    <string name="resetBoard">Reset Board</string>
+    <string name="waiting">Waiting for players</string>
+</resources>
